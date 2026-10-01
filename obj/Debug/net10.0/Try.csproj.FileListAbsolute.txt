@@ -1,0 +1,15 @@
+/Users/talal/Desktop/Try/bin/Debug/net10.0/Try
+/Users/talal/Desktop/Try/bin/Debug/net10.0/Try.deps.json
+/Users/talal/Desktop/Try/bin/Debug/net10.0/Try.runtimeconfig.json
+/Users/talal/Desktop/Try/bin/Debug/net10.0/Try.dll
+/Users/talal/Desktop/Try/bin/Debug/net10.0/Try.pdb
+/Users/talal/Desktop/Try/obj/Debug/net10.0/Try.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Try/obj/Debug/net10.0/Try.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Try/obj/Debug/net10.0/Try.AssemblyInfo.cs
+/Users/talal/Desktop/Try/obj/Debug/net10.0/Try.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Try/obj/Debug/net10.0/Try.sourcelink.json
+/Users/talal/Desktop/Try/obj/Debug/net10.0/Try.dll
+/Users/talal/Desktop/Try/obj/Debug/net10.0/refint/Try.dll
+/Users/talal/Desktop/Try/obj/Debug/net10.0/Try.pdb
+/Users/talal/Desktop/Try/obj/Debug/net10.0/Try.genruntimeconfig.cache
+/Users/talal/Desktop/Try/obj/Debug/net10.0/ref/Try.dll
